@@ -1,0 +1,5 @@
+1) What is the most frequent genre of movies released on Netflix? 
+2) What genres has highest votes?
+3) What movie got the highest popularity? what's its genre? 
+4) What movie got the lowest popularity? what's its genre? 
+5) Which year has the most filmmed movies?
